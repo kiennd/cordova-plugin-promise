@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-promise",
+  "version": "0.1.0",
+  "description": "A Cordova plugin adding Promise support.",
+  "author": "Joshua McFarland",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcfarljw/cordova-plugin-promise"
+  },
+  "keywords": [
+    "cordova",
+    "promise"
+  ],
+  "cordova": {
+    "id": "cordova-plugin-promise",
+    "platforms": [
+      "android"
+    ]
+  }
+}
