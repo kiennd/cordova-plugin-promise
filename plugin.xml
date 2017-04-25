@@ -13,7 +13,7 @@
     <engine name="cordova" version=">=6.0.0" />
   </engines>
 
-  <js-module src="libs/bluebird-3.4.7.min.js" name="PromisePlugin">
+  <js-module src="libs/bluebird-3.5.0.min.js" name="PromisePlugin">
     <runs />
   </js-module>
 
