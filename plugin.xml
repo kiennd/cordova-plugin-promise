@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="com-jernung-plugin-promise"
-        version="0.1.0">
+        id="cordova-plugin-promise"
+        version="1.0.0">
 
   <name>Promise Plugin</name>
   <description>A Cordova plugin for adding Promise support.</description>
-  <author>Jernung, LLC</author>
+  <author>Joshua McFarland</author>
   <license>MIT</license>
   <keywords>cordova,promise</keywords>
 
